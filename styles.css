@@ -1,0 +1,18 @@
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    height: 25px;
+}
+
+tr.header {
+    background: #dddddd;
+}
+
+th, td {
+    padding: 2px;
+    border: 1px solid black;
+    width: 25px;
+    text-align: center;
+}
